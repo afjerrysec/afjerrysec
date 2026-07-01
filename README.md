@@ -1,16 +1,63 @@
-## Hi there 👋
+## Hi I'm Jerry 👋
 
-<!--
-**afjerrysec/afjerrysec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student focused on Security Engineering
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Security Engineering
+- Cloud Security
+- Detection Engineering
+- Security Operations
+- Linux
+- Microsoft Azure
+
+## Current Focus
+
+- Building a hybrid cybersecurity lab
+- Learning Azure security
+- Security monitoring with SIEM (Wazuh, Splunk and ELK Stack)
+- Detection engineering
+- Secure system administration
+
+## Current Projects
+
+- Hybrid Security Lab
+- Azure Security Lab
+- Detection Engineering
+- Secure Application Development
+
+## Technical Skills
+
+**Operating Systems**
+- Linux
+- Windows Server
+
+**Cloud**
+- Microsoft Azure
+
+**Networking**
+- TCP/IP
+- DNS
+- Routing
+- Firewalls
+
+**Security**
+- SIEM
+- Nmap
+- Wireshark
+- Wazuh
+- Splunk
+- OWASP Top 10
+
+## Certifications (In Progress)
+
+- CompTIA Security+
+- Microsoft Security Learning Paths
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/jerry-afevi-33a812290/
+
+Email: afjerrysec@gmail.com
+
+Always learning. Always building.
