@@ -14,13 +14,12 @@ I'm a Computer Science student focused on Cloud Security and Identiry & Access M
 
 - Building a hybrid AWS + kali Linux lab
 - Learning AWS and AWS Security
-- Security monitoring with SIEM (Wazuh, Splunk and ELK Stack)
 - Identity & Access management
 
 ## Current Projects
 
 - Hybrid Security Lab
-- Azure Security Lab
+- AWS Security Lab
 
 ## Technical Skills
 
