@@ -1,30 +1,26 @@
 ## Hi I'm Jerry 👋
 
-I'm a Computer Science student focused on Security Engineering
+I'm a Computer Science student focused on Cloud Security and Identiry & Access Management
 
 ## Interests
 
-- Security Engineering
 - Cloud Security
-- Detection Engineering
+- Identity & and Access Management
 - Security Operations
 - Linux
-- Microsoft Azure
+- Amazon Web services(AWS)
 
 ## Current Focus
 
-- Building a hybrid cybersecurity lab
-- Learning Azure security
+- Building a hybrid AWS + kali Linux lab
+- Learning AWS and AWS Security
 - Security monitoring with SIEM (Wazuh, Splunk and ELK Stack)
-- Detection engineering
-- Secure system administration
+- Identity & Access management
 
 ## Current Projects
 
 - Hybrid Security Lab
 - Azure Security Lab
-- Detection Engineering
-- Secure Application Development
 
 ## Technical Skills
 
@@ -33,7 +29,7 @@ I'm a Computer Science student focused on Security Engineering
 - Windows Server
 
 **Cloud**
-- Microsoft Azure
+- Amazon Web Services (AWS)
 
 **Networking**
 - TCP/IP
@@ -43,16 +39,12 @@ I'm a Computer Science student focused on Security Engineering
 
 **Security**
 - SIEM
-- Nmap
-- Wireshark
-- Wazuh
-- Splunk
-- OWASP Top 10
 
-## Certifications (In Progress)
+## Certifications 
 
-- CompTIA Security+
-- Microsoft Security Learning Paths
+- ISC2 Certified in Cybersecurity
+- AWS Cloud Practioner (In Progress)
+- Microsoft SC-300
 
 ## Contact
 
